@@ -1,64 +1,78 @@
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Moheuddin+Al+Usama;Full+Stack+Web+Developer;Building+Modern+Web+Apps;Clean+UI+%2F+UX+Lover" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Moheuddin%20Al%20Usama&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descSize=20&descColor=ffffff" width="100%"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Moheuddin+Al+Usama;Full+Stack+Web+Developer;Building+Modern+Web+Apps;Clean+UI+%2F+UX+Lover" />
+</p>
 
+<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-1d8dce98-7fbb-4c2b-8a3b-6f3b63a9c0d6.gif" width="100%" />
 </p>
 
 
 
-<h1 align="center">I'm Moheuddin Al Usama</h1>  
-<h3 align="center">💻 Full Stack Web Developer</h3><p align="center">
-📍 Shyamnagar, Satkhika, Bangladesh • 📧 moheuddinalusama@email.com
+<p align="center">
+  📍 Shyamnagar, Satkhika, Bangladesh &nbsp;•&nbsp; 📧 moheuddinalusama@email.com
 </p>
+
 
 🧠 About Me
 
 <p align="center">
-I build scalable web apps with modern technologies and focus on clean UI/UX.<br>
-Passionate about solving real-world problems with code.
-</p><p align="center">
-🔍 Exploring <b>Next.js</b> • 🌍 Working on <b>Tourism Website</b> • ⚡ Learning <b>Performance Optimization</b>
+  I build scalable web apps with modern technologies and focus on clean UI/UX.<br/>
+  Passionate about solving real-world problems with code.
 </p>
 
-🚀 Skills
+<p align="center">
+  🔍 Exploring <b>Next.js</b> &nbsp;•&nbsp; 🌍 Working on <b>Tourism Website</b> &nbsp;•&nbsp; ⚡ Learning <b>Performance Optimization</b>
+</p>
+
+
+
+ 🚀 Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,figma&theme=dark" />
 </p>
 
-🌐 Connect
+
+🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin"/></a>
-  <a href="https://snapchat.com"><img src="https://img.shields.io/badge/-Snapchat-FFFC00?style=flat&logo=snapchat"/></a>
-  <a href="https://tiktok.com"><img src="https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok"/></a>
-</p>
+  <a hrefwww.linkedin.com/in/moheuddin-al-usama"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+ 
 
-📊 My GitHub Stats
+
+ 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moheuddinalusama&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moheuddinalusama&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moheuddinalusama&theme=tokyonight" width="100%"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moheuddinalusama&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moheuddinalusama&theme=tokyonight" width="48%"/>
+</p>
+
+
 
 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=moheuddinalusama&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=moheuddinalusama&theme=tokyonight&hide_border=true&border_radius=10" width="70%"/>
 </p>
 
-🧩 Featured Work
+
+ 🧩 Featured Work
 
 <p align="center">
-🌍 Tourism Website • 🕌 Islamic App UI • 💼 Portfolio Website
-</p>
-
-<!-- 🐍 Snake Animation --><p align="center">
-  <img src="https://raw.githubusercontent.com/moheuddinalusama/moheuddinalusama/output/github-contribution-grid-snake.svg" />
+  🌍 <b>Tourism Website</b> &nbsp;•&nbsp; 🕌 <b>Islamic App UI</b> &nbsp;•&nbsp; 💼 <b>Portfolio Website</b>
 </p>
 
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%"/>
 </p>
